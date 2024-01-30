@@ -1,16 +1,37 @@
-### Yoo, I am CodeCrafter-TL!
-- 👀 I’m interested in computer.
-- 🌱 I’m currently learning Python and C.
-- 📫 How to reach me: 1825456084@qq.com / codecrafter0tl@gmail.com .
+<img src="https://github-readme-stats.vercel.app/api?username=CodeCrafter-TL&theme=transparent&include_all_commits=true&show_icons=true" />
 
-<!---
-CodeCrafter-TL/CodeCrafter-TL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=CodeCrafter-TL)]()
+About Me
+--------
+### My Info
 
-<br>
+![NickName](https://img.shields.io/badge/NickName-CodeCrafetr%20TL-orange)
+![Age](https://img.shields.io/badge/Age-13-blue)
+![Sex](https://img.shields.io/badge/Gender-♂-green)
+![Profession](https://img.shields.io/badge/Profession-Pupil-yellow)
 
-[![](https://img.shields.io/badge/OS-Windows%2011-blue?logo=Windows11)]()
-[![](https://img.shields.io/badge/OS-macOS%2014-green?logo=macOS)]()
-[![](https://img.shields.io/badge/Python-11.4-blue?logo=python)]()
+### Ability
+
+![Python](https://img.shields.io/badge/Python-烂熟于心-orange?style=flat&logo=python)
+![Markdown](https://img.shields.io/badge/HTML&CSS&JS-炉火纯青-purple?logo=markdown)
+![C/C++](https://img.shields.io/badge/C&C++-完全不懂-blue?logo=c)
+![Java](https://img.shields.io/badge/Java-初入门道-green?logo=oracle)
+![Linux](https://img.shields.io/badge/Linux-完全不懂-yellow?logo=linux)
+![Minecraft](https://img.shields.io/badge/Minecraft-非常热爱-grey?logo=minecraft)
+
+### Achievement
+
+[![GitHub](https://img.shields.io/badge/GitHub-CodeCrafter%20TL-purple?logo=github)](https://github.com/CodeCrafter-TL)
+![Repositories](https://img.shields.io/badge/Repositories-5-blue)
+![Stars](https://img.shields.io/badge/Stars-5-green)
+![Forks](https://img.shields.io/badge/Forks-2-yellow)  
+![Downloads](https://img.shields.io/badge/Downloads-1.2k-yellow)
+
+### Contact Me
+
+[![Email](https://img.shields.io/badge/Email-1825456084@qq.com-blue?style=social)](mailto:1825456084@qq.com)
+[![Gmail](https://img.shields.io/badge/Gmail-codecrafter0tl@gmail.com-blue?style=social)](mailto:codecrafter0tl@gmail.com)
+![QQ](https://img.shields.io/badge/QQ-1825456084-green?style=social)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=CodeCrafter-TL)
