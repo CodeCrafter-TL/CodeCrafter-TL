@@ -1,37 +1,41 @@
-<img src="https://github-readme-stats.vercel.app/api?username=CodeCrafter-TL&theme=transparent&include_all_commits=true&show_icons=true" />
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20CodeCrafter-TL!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
-About Me
---------
-### My Info
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+</p>
 
-![NickName](https://img.shields.io/badge/NickName-CodeCrafetr%20TL-orange)
-![Age](https://img.shields.io/badge/Age-13-blue)
-![Sex](https://img.shields.io/badge/Gender-♂-green)
-![Profession](https://img.shields.io/badge/Profession-Pupil-yellow)
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=CodeCrafter-TL&theme=transparent&show_icons=true&hide_border=true" />
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=CodeCrafter-TL&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeCrafter-TL&theme=github-compact&hide_border=true&area=true" />
+<br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=CodeCrafter-TL&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCrafter-TL&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/>
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
+</p>
 
-### Ability
+<!-- https://github.com/badges/shields -->
+<p align="center">
+<a href="https://github.com/CodeCrafter-TL"><img src="https://img.shields.io/badge/GitHub-CodeCrafter-TL-blue?logo=github" /></a>
+<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-小康2022-pink?logo=bilibili" /></a>
+<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=CodeCrafter-TL&abbreviated=true&color=yellow" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-烂熟于心-orange?style=flat&logo=python)
-![Markdown](https://img.shields.io/badge/HTML&CSS&JS-炉火纯青-purple?logo=html5)
-![C/C++](https://img.shields.io/badge/C&C++-完全不懂-blue?logo=c)
-![Java](https://img.shields.io/badge/Java-初入门道-green?logo=oracle)
-![Linux](https://img.shields.io/badge/Linux-完全不懂-yellow?logo=linux)
-![Minecraft](https://img.shields.io/badge/Minecraft-非常热爱-grey?logo=minecraft)
-
-### Achievement
-
-[![GitHub](https://img.shields.io/badge/GitHub-CodeCrafter%20TL-purple?logo=github)](https://github.com/CodeCrafter-TL)
-![Repositories](https://img.shields.io/badge/Repositories-5-blue)
-![Stars](https://img.shields.io/badge/Stars-5-green)
-![Forks](https://img.shields.io/badge/Forks-2-yellow)  
-![Downloads](https://img.shields.io/badge/Downloads-1.2k-yellow)
-
-### Contact Me
-
-[![Email](https://img.shields.io/badge/Email-1825456084@qq.com-blue?style=social)](mailto:1825456084@qq.com)
-[![Gmail](https://img.shields.io/badge/Gmail-codecrafter0tl@gmail.com-blue?style=social)](mailto:codecrafter0tl@gmail.com)
-![QQ](https://img.shields.io/badge/QQ-1825456084-green?style=social)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=CodeCrafter-TL)
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
