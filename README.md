@@ -29,7 +29,7 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/CodeCrafter-TL"><img src="https://img.shields.io/badge/GitHub-CodeCrafter-TL-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-小康2022-pink?logo=bilibili" /></a>
+<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-CC_铁路旁的小学生-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=CodeCrafter-TL&abbreviated=true&color=yellow" />
